@@ -141,7 +141,7 @@ def Subscraption():
 	key1=open('/data/data/com.termux/files/usr/bin/.mrBALOCH -cov', 'r').read()
 	clear()
 	print(logo)
-	r1=requests.get("https://raw.githubusercontent.com/WASUx/F-1/main/APPROVAL.txt").text
+	r1=requests.get("https://github.com/arslansuhail/Arslantrick/tree/main").text
 	if key1 in r1:
 		os.system('clear')
 		print(logo)
@@ -172,7 +172,7 @@ def Subscraption():
 		input(" Press Enter To Send Key")
 		time.sleep(3.5)
 		tks = 'Dear%20NADEEM,%20Please%20Approved%20My%20Key%20To%20Premium%20%20Thanks%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20My%20Email%20:%20'+lol+'%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20My%20Name%20:%20'+name+'%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20My%20%20Key%20%20:%20'+ak+ah+key1
-		os.system('am start https://wa.me/+919910632063?text=' + tks)
+		os.system('am start https://wa.me/03155561875?text=' + tks)
 		Subscraption()        
 Subscraption()
 #----------------------------[CODE/END]-----------------------------------#
